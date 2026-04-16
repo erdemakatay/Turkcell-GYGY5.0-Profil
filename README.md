@@ -7,7 +7,7 @@ Bu proje, modern Kotlin geliştirme araçları kullanılarak hazırlanmış,  ku
 ## 📸 Uygulama Ekran Görünümü
 
 <p align="center">
-  <img width="300" alt="Ekran görüntüsü 2026-04-16 141519" src="https://github.com/user-attachments/assets/b0f5653d-a55f-405e-a706-33a1fae6c340" />
+  <img src="https://github.com/user-attachments/assets/267044ed-b50a-435b-bea0-e84400683cc4" alt="Proje Ekran Görüntüsü" width="300" />
 </p>
 
 ## 🚀 Özellikler
